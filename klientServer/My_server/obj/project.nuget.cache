@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "Oh362zLUD+wQqCNIvO3aXm3/V6acGUUYvfLqHGwC2korRDwGQcyeoNPmIxhkEUA4gL2dX7QTpvXEaD46giZnEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ray_Gek\\Desktop\\Андрей\\Kyrsach\\My_server\\My_server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ray_Gek\\.nuget\\packages\\sevenzipsharp\\0.64.0\\sevenzipsharp.0.64.0.nupkg.sha512",
+    "C:\\Users\\Ray_Gek\\.nuget\\packages\\sevenzipsharp.interop\\19.0.2\\sevenzipsharp.interop.19.0.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"SevenZipSharp 0.64.0\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\", а не целевой платформы проекта \"net6.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "SevenZipSharp",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

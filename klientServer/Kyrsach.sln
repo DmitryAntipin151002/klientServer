@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kyrsach", "Kyrsach\Kyrsach.csproj", "{614C661B-4C92-4D19-A598-369BD4C1869C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "My_server", "My_server\My_server.csproj", "{C7A5331E-C8F1-488B-9FE6-202CD8D41DFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KyrsachClient", "KyrsachClient\KyrsachClient.csproj", "{77CC070D-C882-4521-8549-A409DCED0E45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{614C661B-4C92-4D19-A598-369BD4C1869C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{614C661B-4C92-4D19-A598-369BD4C1869C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{614C661B-4C92-4D19-A598-369BD4C1869C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{614C661B-4C92-4D19-A598-369BD4C1869C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7A5331E-C8F1-488B-9FE6-202CD8D41DFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7A5331E-C8F1-488B-9FE6-202CD8D41DFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7A5331E-C8F1-488B-9FE6-202CD8D41DFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7A5331E-C8F1-488B-9FE6-202CD8D41DFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77CC070D-C882-4521-8549-A409DCED0E45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77CC070D-C882-4521-8549-A409DCED0E45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77CC070D-C882-4521-8549-A409DCED0E45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77CC070D-C882-4521-8549-A409DCED0E45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC3906E7-7530-4B6E-91FD-2CE066AC31D3}
+	EndGlobalSection
+EndGlobal
